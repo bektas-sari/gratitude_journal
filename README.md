@@ -49,10 +49,3 @@ dependencies:
 
 This project is licensed under the MIT License.
 
----
-
-> "Gratitude turns what we have into enough." – Aesop
-
-
-
-A simple Flutter app that lets you write three gratitude notes per day with a clean calendar interface. Stay mindful, reflect daily, and track your positivity over time.
