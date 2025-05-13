@@ -12,10 +12,6 @@ It features a clean calendar interface, daily entry support, and a smooth user e
 * 📱 Clean, responsive layout optimized for mobile
 * 🎨 Flutter vibe: `TextField`, `ListView.builder`, `TableCalendar`, `Intl`
 
-## 📸 Screenshots
-
-*(Insert screenshots here)*
-
 ## 🚀 Getting Started
 
 ### Prerequisites
@@ -26,7 +22,7 @@ It features a clean calendar interface, daily entry support, and a smooth user e
 ### Installation
 
 ```bash
-git clone https://github.com/your-username/gratitude_journal.git
+git clone https://github.com/bektas-sari/gratitude_journal.git
 cd gratitude_journal
 flutter pub get
 flutter run
