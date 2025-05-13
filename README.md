@@ -1,6 +1,7 @@
-# Gratitude Journal
+# Gratitude Journal (Flutter APP)
 
-Gratitude Journal is a minimal and elegant Flutter application that allows users to write down three things they are grateful for each day. It features a clean calendar interface, daily entry support, and a smooth user experience.
+Gratitude Journal is a minimal and elegant Flutter application that allows users to write down three things they are grateful for each day. 
+It features a clean calendar interface, daily entry support, and a smooth user experience.
 
 ## 🌟 Features
 
